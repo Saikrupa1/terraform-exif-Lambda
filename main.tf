@@ -117,4 +117,4 @@ resource "aws_iam_user_policy" "user_b_policy" {
     }]
   })
 }
-kkk
+
